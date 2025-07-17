@@ -7,3 +7,6 @@ MVP
 - API for Agents to
     - Create task asynchronously
     - fetch task result
+- MCP server
+   - Create task asynchronously
+   - fetch task result
